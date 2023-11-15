@@ -7,8 +7,8 @@ original WordPress wp_generate_password() function has been converted from PHP t
 
 The following options are available:
 
-- `--no-extra-special-chars` Exclude extra special characters, e.g. -_ []{}<>~\`+=,.;:/?|"
-- `--no-special-chars` Exclude special characters, e.g. !@#$%^&*()"
+- `--no-extra-special-chars` Exclude extra special characters, e.g. -_ []{}<>~\`+=,.;:/?|
+- `--no-special-chars` Exclude special characters, e.g. !@#$%^&*()
 - `--length=num` (default: 64) Length of the salt values
 - `--help`
 
